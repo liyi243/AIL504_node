@@ -17,12 +17,7 @@ const db = mysql.createPool({
     port:'3306',
     password:'******',
     database:'AIL504'
-    // aliyun
-    // host:'47.98.177.122',
-    // user:'root',
-    // port:'3305',
-    // password:'yttech123456',
-    // database:'sql_node'
+ 
 })
 
 
