@@ -12,10 +12,10 @@ const mysql = require('mysql')
  * @return {*}：db 
  */
 const db = mysql.createPool({
-    host:'120.79.2.7',
+    host:'localhost',
     user:'root',
     port:'3306',
-    password:'yunsql',
+    password:'******',
     database:'AIL504'
     // aliyun
     // host:'47.98.177.122',
